@@ -1,5 +1,7 @@
-
+<<<<<<< HEAD
 This is from master 
 This is from feature1
+=======
+This is from master
 This is from feature2 
-
+>>>>>>> feature2
